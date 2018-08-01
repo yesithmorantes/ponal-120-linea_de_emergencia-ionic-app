@@ -1,0 +1,7 @@
+{
+  "name": "ponal-120-linea_de_emergencia-ionic-app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
